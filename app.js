@@ -6,7 +6,7 @@ let userQuestion = 'Will I become a Software Engineer';
 console.log(`${userQuestion}?\nThank you for the question ${userName} and that is a good and interesting one.`);
 
 const randomNumber = Math.floor(Math.random() * 8);
-//console.log(`${randomNumber}`);
+
 
 let eightBall = '';
 
